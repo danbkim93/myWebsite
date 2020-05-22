@@ -27,8 +27,7 @@ header {
     float: center;
 }
 .header-nav {
-    position: fixed;
-    width: 100%;
+    width: 500%;
 }
 
 .header-nav ul {
