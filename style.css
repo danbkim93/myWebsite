@@ -19,6 +19,8 @@ header {
     font-weight: lighter;
     font-style: italic;
     font-size: 16px;
+        margin-left: 15px;
+
 }
 .header-info h1 {
     font-weight: bold;
@@ -27,6 +29,8 @@ header {
 .header-link {
     font-size: 20px;
     float: center;
+        margin-left: 15px;
+
 }
 .header-nav {
     width: 500%;
